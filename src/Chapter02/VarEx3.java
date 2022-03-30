@@ -1,3 +1,5 @@
+package Chapter02;
+
 public class VarEx3 {
     public static void main(String[] args) {
         final int SCORE = 100;

@@ -1,3 +1,5 @@
+package Chapter02;
+
 public class VarEx1 {
     public static void main(String[] args) {
         int year = 0;   //변수 선언과 동시에 초기화
